@@ -11,11 +11,20 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
   <img src="https://img.shields.io/badge/EOS-313131.svg?style=for-the-badge&logo=Epic%20Games&logoColor=white">
+  <img scr="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 </p>
 
 <p>
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/803801554888687626/1085766256034062437/cac74d3c6d0f8a01e11728a6d2557991.gif">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 </p>
