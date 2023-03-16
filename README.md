@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/EOS-313131.svg?style=for-the-badge&logo=Epic%20Games&logoColor=white">
 </div>
 </p>
-<body>
-  <iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/803801554888687626/1085764811087937626/Y2Mate.is_-_Little_Dark_Age_-_Cats_2-n5WjiQlrlb4-1080p-1654168864793.mp4"></iframe>
-<\body>
+
+<p>
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/803801554888687626/1085766256034062437/cac74d3c6d0f8a01e11728a6d2557991.gif">
+</div>
+</p>
