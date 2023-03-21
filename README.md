@@ -28,5 +28,14 @@
   <hr>
   <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+  <hr>
 </div>
 </p>
+
+<p>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+also+Like+Cats+:3;&center=true&width=500&height=50&color=pink"></a>
+</div>
+</p>
+
+https://user-images.githubusercontent.com/35628281/226611821-7c124426-ea83-4150-a3dc-b8d7088fcdea.mp4
