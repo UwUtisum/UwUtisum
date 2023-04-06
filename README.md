@@ -23,10 +23,15 @@
 
 <p>
 <div align="center">
-  <br>
-  <h3>Platforms i have worked on:
-  <hr>
+  <h3>Platforms i have worked on:</h3>
   <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <h2>i also love Ham Radio and Satellite communications</h2>
+  <img src="https://user-images.githubusercontent.com/35628281/230506155-2a8df980-c415-44ea-8d2e-d43381dea41a.gif">
 </div>
 </p>
