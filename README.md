@@ -31,11 +31,3 @@
   <hr>
 </div>
 </p>
-
-<p>
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+also+Like+Cats+:3;&center=true&width=500&height=50&color=pink"></a>
-</div>
-</p>
-
-https://user-images.githubusercontent.com/35628281/226611821-7c124426-ea83-4150-a3dc-b8d7088fcdea.mp4
