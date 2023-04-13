@@ -30,7 +30,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/UwUtisum"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UwUtisum&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <a href="https://github.com/UwUtisu"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UwUtisum&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </div>
 
 <p>
