@@ -9,7 +9,12 @@
 
 ###
 
-<p align="left">Hello I am Leah a 22 year old self taught Programmer, cybersecurity enthusiast and game developer from the UK :3</p>
+<p align="left">Hello I am Leah a 22 year old self taught Programmer, cybersecurity enthusiast and game developer from the UK :3 <br> Personal Projects i have worked on:</p>
+<ul>
+  <li><a href="https://pryzum.net">Pryzum.net</a></li>
+  <li><a href="https://anoniion-studios.com">Anoniion-Studios.com</a></li>
+  <li><a href="https://bingle.github.io">Bingle.github.io</a></li>
+</ul>
 
 ###
 
@@ -41,7 +46,7 @@
   <a href="https://www.twitch.tv/uwutisum" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="discord.com/users/529305973576171561" target="_blank">
+  <a href="https://discord.com/users/529305973576171561" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://tryhackme.com/p/UwUtisum" target="_blank">
