@@ -48,15 +48,3 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://femboy.beauty/6tHgg.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/uwutisum/uwutisum/output/snake.svg" alt="Snake animation" />
-
-###
