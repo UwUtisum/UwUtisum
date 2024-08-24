@@ -13,7 +13,7 @@
 <ul>
   <li><a href="https://pryzum.net">Pryzum.net</a></li>
   <li><a href="https://anoniion-studios.com">Anoniion-Studios.com</a></li>
-  <li><a href="https://bingle.github.io">Bingle.github.io</a></li>
+  <li><a href="https://rpukbingle.github.io">rpukbingle.github.io</a></li>
 </ul>
 
 ###
