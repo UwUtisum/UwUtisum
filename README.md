@@ -15,6 +15,7 @@
   <li><a href="https://anoniion-studios.com">Anoniion-Studios.com</a></li>
   <li><a href="https://rpukbingle.github.io">rpukbingle.github.io</a></li>
 </ul>
+My Tryhackme CTF write-ups <a href="https://github.com/UwUtisum/TryHackMe-Write-ups/">UwUtisum/TryHackMe-Write-ups/</a>
 
 ###
 
