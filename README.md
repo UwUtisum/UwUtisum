@@ -44,6 +44,7 @@ My Tryhackme CTF write-ups <a href="https://github.com/UwUtisum/TryHackMe-Write-
 ###
 
 <div align="left">
+  <img height="35" id="preview" src="https://komarev.com/ghpvc/?username=UwUtisum&color=grey">
   <a href="https://www.twitch.tv/uwutisum" target="_blank">  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/></a>
   <a href="https://discord.com/users/529305973576171561" target="_blank">  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/></a>
   <a href="https://tryhackme.com/p/UwUtisum" target="_blank">  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"/></a>
