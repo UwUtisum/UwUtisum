@@ -14,7 +14,7 @@
 <ul><li><a href="https://pryzum.net">Pryzum.net</a><ul><li><a href="https://files.pryzum.net">Files.Pryzum.net</a><li><a href="https://internal.pryzum.net">Internal.Pryzum.net</a><li><a href="https://wiki.pryzum.net">Wiki.Pryzum.net</a></li><li><a href="https://recruitment.pryzum.net">Recruitment.Pryzum.net</a></li></ul>
 
 My Tryhackme CTF write-ups <a href="https://github.com/UwUtisum/TryHackMe-Write-ups/">UwUtisum/TryHackMe-Write-ups/</a>
-
+i have worked on many projects such as things rangeing from videogames to website projects
 ###
 
 <div align="left">
