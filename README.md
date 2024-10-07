@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hello I am Leah a 22 year old self taught Programmer, game developer, and whitehat hacker from the UK :3 <br>i have found vulns in FiveM & RedM ^-^ i have also done a lot more i cant talk about as of now<br> Personal Projects i have worked on:</p>
+<p align="left">Hello I am Leah a 22 year old self taught Programmer, game developer, and whitehat hacker from the UK :3 <br>i have found vulns in FiveM & RedM (CVE-2024-46310) ^-^ i have also done a lot more i cant talk about as of now<br> Personal Projects i have worked on:</p>
 <ul><li><a href="https://anoniion-studios.com">Anoniion-Studios.com</a></li></ul>
 <ul><li><a href="https://pryzum.net">Pryzum.net</a><ul><li><a href="https://files.pryzum.net">Files.Pryzum.net</a><li><a href="https://internal.pryzum.net">Internal.Pryzum.net</a><li><a href="https://wiki.pryzum.net">Wiki.Pryzum.net</a></li><li><a href="https://recruitment.pryzum.net">Recruitment.Pryzum.net</a></li></ul>
 
